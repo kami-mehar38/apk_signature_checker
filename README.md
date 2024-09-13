@@ -48,3 +48,9 @@ void checkSignature() async {
 
 ## Contact
 For any questions or issues, please open an [issue](https://github.com/kami-mehar38/apk_signature_checker/issues) on the repository or [Email Me](mailto:kamranramzan098@gmail.com).
+
+## Show Your Support
+If you find this plugin useful, please consider giving it a star on GitHub and liking it on pub.dev!
+
+⭐ Star the repository on [GitHub](https://github.com/kami-mehar38/apk_signature_checker)
+❤️ Like this plugin on [pub.dev](https://pub.dev/)
