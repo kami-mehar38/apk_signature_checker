@@ -23,8 +23,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  apk_signature_checker:
-    path: ./path_to_your_plugin
+  apk_signature_checker: ^1.0.0
 ```
 
 ## Usage
